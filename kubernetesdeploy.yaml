@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: banking-container
-        image: Gopalkrishna24/banking project:1.0
+        image: Gopalkrishna24/banking-project
         ports:
         - containerPort: 8080
 ---
